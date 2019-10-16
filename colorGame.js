@@ -77,7 +77,7 @@ return colors[random];
 }
 
 function generateRandomColors(num){
-	//make an array
+	//make an array of numbers
 	var arr = [];
 	//add num random colos to array
 	for (var i = 0; i < num; i++) {
